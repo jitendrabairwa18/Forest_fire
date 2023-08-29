@@ -2,9 +2,6 @@
 Introduction
 This repository contains the code and resources for a machine learning project focused on predicting forest fires. The goal of this project is to develop a predictive model that can accurately anticipate the likelihood of a forest fire based on various factors. we use different classification models to predict the output based on given features.
 
-Table of Contents
-Dataset. EDA. Feature Engineering. Model Selection. Evaluation.
-
 1.Dataset
 The dataset used for this project consists of historical records of forest fires, including various attributes such as temperature, humidity, wind speed, rain, and more. The data is collected from reliable sources and covers a range of geographic locations and time periods. It is preprocessed to ensure quality and relevance for training our predictive model.
 
